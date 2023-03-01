@@ -1,4 +1,5 @@
 data class User(
     val name:String,
-    val age: Int
+    val age: Int,
+    val job: String
 )
